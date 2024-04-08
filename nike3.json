@@ -1,22 +1,22 @@
 [
 
     {
-        id: 6,
-        title: "PALACE GAP",
-        imgUrl: "/img/new7.png",
-        price: 67000
+        "id": 6,
+        "title": "PALACE GAP",
+        "imgUrl": "/img/new7.png",
+        "price": 67000
     },
     {
-        id: 7,
-        title: "OXFORD DROP",
-        imgUrl: "/img/new8.png",
-        price: 58000
+        "id": 7,
+        "title": "OXFORD DROP",
+        "imgUrl": "/img/new8.png",
+        "price": 58000
     },
     {
-        id: 8,
-        title: "BASICALLY",
-        imgUrl: "/img/new9.png",
-        price: 77000
+        "id": 8,
+        "title": "BASICALLY",
+        "imgUrl": "/img/new9.png",
+        "price": 77000
     }
 
 ]

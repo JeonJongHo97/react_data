@@ -1,22 +1,20 @@
 [
-
-{
-        id: 3,
-        title: "ITALIA ZIP",
-        imgUrl: "/img/new4.png",
-        price: 220000
+    {
+        "id": 3,
+        "title": "ITALIA ZIP",
+        "imgUrl": "/img/new4.png",
+        "price": 220000
     },
     {
-        id: 4,
-        title: "INFINIUM MASK",
-        imgUrl: "/img/new5.png",
-        price: 76000
+        "id": 4,
+        "title": "INFINIUM MASK",
+        "imgUrl": "/img/new5.png",
+        "price": 76000
     },
     {
-        id: 5,
-        title: "BOARO CARRIER",
-        imgUrl: "/img/new6.png",
-        price: 88000
-    },
-
+        "id": 5,
+        "title": "BOARO CARRIER",
+        "imgUrl": "/img/new6.png",
+        "price": 88000
+    }
 ]
